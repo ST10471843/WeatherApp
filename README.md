@@ -10,6 +10,8 @@ For my weather app I decided to make my daily forecast cards stacked. My color s
 to get a api key that makes my design realistic
 
 ## Screenshot 
+<img width="377" height="606" alt="image" src="https://github.com/user-attachments/assets/95fb4ffb-991c-41cb-93d8-1ac39ca67143" />
+
 
 ## Reference List
 MDN Web Docs (2025) HTML: HyperText Markup Language. Mozilla Developer Network. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
